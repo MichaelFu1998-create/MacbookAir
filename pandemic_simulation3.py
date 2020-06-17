@@ -12,7 +12,7 @@ Scenario_C : match prediction - pandemic would probably die out due to low meeti
 """
 
 
-from a2_30838932_task2 import *
+from pandemic_simulation2 import *
 from matplotlib import pyplot as plt
 import numpy as np
 
