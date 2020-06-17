@@ -9,7 +9,7 @@ reading data from txt file and performing the simulation of pandemic spread
 """
 
 
-from a2_30838932_task1 import *
+from pandemic_simulation1 import *
 import random
 
 
